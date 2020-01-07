@@ -28,7 +28,7 @@ where d.component_name ='BASeo'
 
 
 
-SELECT ISDATE('01/01/19DSSD00') 
+
 
 
 SELECT ISNUMERIC(defaultvalue) = 0
